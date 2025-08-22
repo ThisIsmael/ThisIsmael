@@ -23,7 +23,7 @@ My name is Ismael Sousa Fonteles de Castro and I'm from Ceará. I'm currently st
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and tecnologies
 
 <img 
     align="left" 
@@ -91,7 +91,7 @@ My name is Ismael Sousa Fonteles de Castro and I'm from Ceará. I'm currently st
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
