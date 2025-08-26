@@ -63,8 +63,8 @@ My name is Ismael Sousa Fonteles de Castro and I'm from Ceará. I'm currently st
 
 <img 
     align="left" 
-    alt="Pandas" 
-    title="Pandas"
+    alt="SQL" 
+    title="SQL"
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"              
