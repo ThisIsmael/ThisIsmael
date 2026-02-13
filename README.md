@@ -2,7 +2,7 @@
 
 **`Data Science`**
 
-My name is Ismael Sousa Fonteles de Castro and I'm from Ceará. I'm currently studying Computer Science at UECE and work on AI model validation & data analysis.
+My name is Ismael Sousa Fonteles de Castro and I'm from Ceará - Brazil. I'm currently studying Computer Science at UECE and work on AI model validation & data analysis.
 
 <p align="left">
     <a href="https://github.com/ThisIsmael?tab=repositories&sort=stargazers">
